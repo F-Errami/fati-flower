@@ -1,0 +1,137 @@
+body{
+  margin:0;
+  text-align: center;
+  font-family: 'Exo 2', sans-serif;
+  font-size: 20px;
+  color: #40514E;
+}
+
+
+
+
+
+
+
+.topcontainer{
+  background-color: #D9ECF2;
+  margin: 0;
+  padding: 20px;
+  padding-bottom: 0;
+padding-top: 100px;
+position: relative;
+
+
+
+}
+.middle-container{
+
+  margin:100px 0;
+
+
+}
+.intro{
+  width:30%;
+  margin: auto;
+}
+.bottom-container{
+  background-color: #ffeadb;
+  margin: 0;
+ padding-top: 30px;
+ padding-bottom:30px;
+
+
+
+
+
+}
+.cloud-bottom{
+  position:absolute;
+  left:30%;
+
+}
+.cloud-top{
+  position:absolute;
+  left:60%;
+  top:60px;
+  margin-top: 50px;
+}
+.flower{
+  height: 150px;
+}
+.middle-container{
+  padding: 50px
+}
+
+
+
+h1{margin-bottom: 0;
+font-family: 'Sacramento', cursive;
+font-size: 70px;
+color:#94CECA;
+position: relative;
+top: 20px
+
+}
+p{
+  line-height: 2;
+}
+h2{
+  font-family: 'Open Sans', sans-serif;
+  font-size: 30px;
+  color:#94CECA;
+  font-weight: normal;
+  padding-bottom: 10px;
+
+
+}
+.skill-row{
+width:50%;
+margin: 100px auto 100px auto;
+text-align: left;
+
+
+}
+.cook-img{
+  width:250px;
+  float: left;
+  margin-right: 20px;
+}
+.paint-img{
+  width:250px;
+  float: right;
+}
+h3{
+   color:  #F8A978;
+}
+a{
+  color: #F8A978;
+}
+hr {
+  border: dotted #EAF6F6 7px;
+  border-bottom: none;
+  width: 3%;
+  margin : 100px auto;
+}
+.contact-message{
+  width:40%;
+  margin: 40px auto 60px;
+
+}
+
+
+a{
+  text-decoration: none;
+  padding: 20px
+
+}
+a:hover{
+  color:white;
+}
+.copyright{
+  font-size: 15px;
+  color: white;
+}
+.what{
+  clear: right;
+  margin-top: 250px;
+}
